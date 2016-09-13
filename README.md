@@ -1,1 +1,2 @@
-"# EdgeWebNotifications" 
+This just a code sample for Edge Web Notifications. You can try out the JavaScript code given in this project to implement your own Web Notifications.
+Make sure you are running this file in your localhost or webserver ! Happy Coding :) 
